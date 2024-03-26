@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: #5ca1cb;
+  /* background-color: #5ca1cb; */
+  background-image: url('./Assets/Notes.webp');
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-wrap: wrap;
